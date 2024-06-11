@@ -8467,9 +8467,9 @@ checksum = "04744f49eae99ab78e0d5c0b603ab218f515ea8cfe5a456d7629ad883a3b6e7d"
 
 [[package]]
 name = "orchestra"
-version = "0.3.5"
+version = "0.3.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2356622ffdfe72362a45a1e5e87bb113b8327e596e39b91f11f0ef4395c8da79"
+checksum = "f2d8366a4563a61b96360bdf7c915c16850ead5c3c0fba3a74c878552df3e3de"
 dependencies = [
  "async-trait",
  "dyn-clonable",
